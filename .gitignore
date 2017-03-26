@@ -1,0 +1,8 @@
+/ReactMVC/bin
+/ReactMVC/obj
+/ReactMVC.Test/bin
+/ReactMVC.Test/obj
+/ReactMVC/ng2-app/node_modules
+/ReactMVC/Scripts/dependencies
+/.vs
+/packages
